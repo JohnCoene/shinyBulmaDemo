@@ -1,0 +1,4 @@
+]0;/home/jp/shinyApps/shinyBulmaSitejp@jp-HP-Pavilion-Notebook:~/shinyApps/shinyBulmaSite$ git init
+gInitialized empty Git repository in /home/jp/shinyApps/shinyBulmaSite/.git/
+]0;/home/jp/shinyApps/shinyBulmaSitejp@jp-HP-Pavilion-Notebook:~/shinyApps/shinyBulmaSite$ git add[K[K[Kremote add ori[K[K[Ko[Korigin https://github.com/JohnCoene/shinyBulmaDemo.git
+]0;/home/jp/shinyApps/shinyBulmaSitejp@jp-HP-Pavilion-Notebook:~/shinyApps/shinyBulmaSite$ git add -A
